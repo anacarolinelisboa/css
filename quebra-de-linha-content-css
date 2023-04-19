@@ -1,0 +1,4 @@
+.elemento:before{
+    content: 'frete e \A prazo de entrega';
+    white-space: pre-wrap;
+}
